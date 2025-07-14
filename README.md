@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m working on: **AtomGit** (a GitHub-based code hosting platform)
+- 🔭 I’m working on: **AtomGit** (a code hosting platform)
 - 🛠️ Side Projects: `Atomic Heart`, `create-vue-ssr`
 - 🌱 Learning: **Vite SSR**, **前端图形可视化**
 - 💬 Ask me about: Vue 3 / TypeScript / Git internals / Electron / Tauri
