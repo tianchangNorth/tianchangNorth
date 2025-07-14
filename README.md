@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tianchang</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-end+Developer;Vue+%7C+TypeScript+%7C+Tauri;Loves+building+beautiful+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-end+Developer;Vue+%7C+TypeScript+%7C+Vite;Loves+building+beautiful+tools" alt="Typing SVG" />
 </p>
 
 ---
