@@ -39,6 +39,7 @@
 |--------|-------------|
 | [**Atomic-Heart**](https://github.com/tianchangNorth/Atomic-Heart) | A modern Git hosting platform + GUI client |
 | [**create-vue-ssr**](https://github.com/tianchangNorth/create-vue-ssr) | A cli to create a vue ssr project |
+| [**WeSpy**](https://github.com/tianchangNorth/WeSpy) | WeSpy 是一个用于获取微信公众号文章并转换为 Markdown 格式的 Python 工具,支持图片防盗链处理和多种输出格式。 |
 
 
 ---
