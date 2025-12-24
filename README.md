@@ -38,9 +38,11 @@
 | **OS**                                          | ![macOS](https://img.shields.io/badge/-macOS-%23FF9500?style=flat&logo=macos&color=%23FF9500) ![Linux](https://img.shields.io/badge/-Linux-%23FF9500?style=flat&logo=linux&color=%23FF9500) ![Windows](https://img.shields.io/badge/-Windows-%23FF9500?style=flat&logo=windows&color=%23FF9500) <br/> ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%23FF9500?style=flat&logo=archlinux&color=%23FF9500) ![Manjaro](https://img.shields.io/badge/-Manjaro-%23FF9500?style=flat&logo=manjaro&color=%23FF9500) ![Fedora](https://img.shields.io/badge/-Fedora-%23FF9500?style=flat&logo=fedora&color=%23FF9500) ![Debian](https://img.shields.io/badge/-Debian-%23FF9500?style=flat&logo=debian&color=%23FF9500) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23FF9500?style=flat&logo=ubuntu&color=%23FF9500) ![Kubuntu](https://img.shields.io/badge/-Kubuntu-%23FF9500?style=flat&logo=kubuntu&color=%23FF9500)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 <!-- card stats -->
 
-<div align="center">
-  <img src="https://github.com/tianchangNorth/tianchangNorth/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+<p align="center">
+  <img src="https://githubcard.com/tianchangNorth.svg?d=Bag5BTsg" width="80%" />
+  <br/>
+  <img src="https://githubcard.com/tianchangNorth.svg?d=9sftMlgc" width="80%" />
+</p>
 
 #### Thank you for visiting and staring :heart:
 
