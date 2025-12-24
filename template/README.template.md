@@ -41,9 +41,9 @@
 
 <!-- card stats -->
 
-| Github Stats                                                                                                                                 | Language Stats                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| ![delph1s' github stats](https://github-readme-stats.vercel.app/api?username=delph1s&show_icons=true&theme=algolia&include_all_commits=true) | ![delph1s' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delph1s&theme=algolia&layout=compact) |
+<div align="center">
+  <img src="https://github.com/<<placeholder> shields.user>/<<placeholder> shields.repo>/blob/metrics/github-metrics.svg" alt="Metrics">
+</div>
 
 #### Thank you for visiting and staring :heart:
 

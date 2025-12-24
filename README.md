@@ -38,13 +38,9 @@
 | **OS**                                          | ![macOS](https://img.shields.io/badge/-macOS-%23FF9500?style=flat&logo=macos&color=%23FF9500) ![Linux](https://img.shields.io/badge/-Linux-%23FF9500?style=flat&logo=linux&color=%23FF9500) ![Windows](https://img.shields.io/badge/-Windows-%23FF9500?style=flat&logo=windows&color=%23FF9500) <br/> ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%23FF9500?style=flat&logo=archlinux&color=%23FF9500) ![Manjaro](https://img.shields.io/badge/-Manjaro-%23FF9500?style=flat&logo=manjaro&color=%23FF9500) ![Fedora](https://img.shields.io/badge/-Fedora-%23FF9500?style=flat&logo=fedora&color=%23FF9500) ![Debian](https://img.shields.io/badge/-Debian-%23FF9500?style=flat&logo=debian&color=%23FF9500) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23FF9500?style=flat&logo=ubuntu&color=%23FF9500) ![Kubuntu](https://img.shields.io/badge/-Kubuntu-%23FF9500?style=flat&logo=kubuntu&color=%23FF9500)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 <!-- card stats -->
 
-<a href="https://github.com/tianchangNorth?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tianchangNorth&show_icons=true&theme=algolia&include_all_commits=true" alt="tianchang' github stats" />
-</a>
-
-<a href="https://github.com/tianchangNorth?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianchangNorth&theme=algolia&layout=compact" alt="tianchang' top langs" />
-</a>
+<div align="center">
+  <img src="https://github.com/tianchangNorth/tianchangNorth/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 #### Thank you for visiting and staring :heart:
 
