@@ -39,9 +39,7 @@
 <!-- card stats -->
 
 <p align="center">
-  <img src="https://githubcard.com/tianchangNorth.svg?d=Bag5BTsg" width="80%" />
-  <br/>
-  <img src="https://githubcard.com/tianchangNorth.svg?d=9sftMlgc" width="80%" />
+  <img src="https://githubcard.com/tianchangNorth.svg" width="80%" />
 </p>
 
 #### Thank you for visiting and staring :heart:
