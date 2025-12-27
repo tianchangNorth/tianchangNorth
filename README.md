@@ -1,5 +1,4 @@
 <!-- banner-top -->
-
 ![](assets/svg/banner-top.svg)
 
 <!-- shields -->
